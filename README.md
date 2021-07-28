@@ -1,4 +1,4 @@
-# safe_area_test_app
+# safe_area_demo_app
 
 A new Flutter project.
 
